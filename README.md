@@ -34,7 +34,7 @@ I enjoy building **data-driven models**, creating **interactive dashboards**, an
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 
 #### 🧠 Other Tools  
-PowerPoint | Exploratory Data Analysis (EDA)
+PowerPoint | MS Word
 
 ---
 
@@ -47,20 +47,13 @@ PowerPoint | Exploratory Data Analysis (EDA)
 
 ---
 
-### 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardikramparia&show_icons=true&theme=tokyonight" alt="Hardik's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikramparia&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
 
 ### 🤝 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/hardikramparia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hardikramparia@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hardik-ramparia-230596175/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rampariahardik@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
