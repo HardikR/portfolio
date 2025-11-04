@@ -39,7 +39,7 @@ PowerPoint | MS Word
 ---
 
 ### 🚀 Featured Projects  
-- 📊 **[Sales Dashboard in Power BI](#)** — Interactive dashboard visualizing KPIs and business insights.  
+- 📊 **[Data Wrangling](https://github.com/HardikR/Data-Wrangling-With-R)** — Interactive dashboard visualizing KPIs and business insights.  
 - 🤖 **[Machine Learning Models in Python](#)** — Regression and classification models with EDA.  
 - 🗄️ **[Database Design & Query Optimization](#)** — MySQL and MongoDB projects for large datasets.  
 
