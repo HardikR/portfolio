@@ -19,8 +19,6 @@ I build AI systems that go from zero to production — RAG pipelines, document i
 
 7 years in Python, data science, and ETL systems. 3 years building production LLM systems. I embed with client teams, ship end-to-end, and focus on adoption over accuracy.
 
-Currently completing a **Master of Data Science at RMIT University** (GPA 3.6).
-
 ---
 
 ## What I Build
