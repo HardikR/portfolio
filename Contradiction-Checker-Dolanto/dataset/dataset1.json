@@ -1,0 +1,48 @@
+{
+    "clauses": [
+        {
+            "document_id": "DOC_CLOUD_MSA_2026",
+            "clause": "8. SERVICE LEVEL COMMITMENTS\n8.1 Standard Availability Target\nThe Service Provider shall use all commercially reasonable endeavors to ensure that the Cloud Services are operational and accessible to the Client with a Service Availability of at least 99.9% during any given calendar month, excluding scheduled maintenance windows.\n8.4 Overriding Annual Performance Guarantee\nNotwithstanding any monthly measurement cycles or baseline availability terms specified elsewhere in this Agreement or its accompanying schedules, the Service Provider provides an absolute runtime performance guarantee of 99.99% availability over each contract year interval.",
+            "clause number": "8.",
+            "clause title": "8. SERVICE LEVEL COMMITMENTS",
+            "subclauses": [
+                {
+                    "subclause number": "8.1",
+                    "subclause title": "Standard Availability Target",
+                    "subclause text": "The Service Provider shall use all commercially reasonable endeavors to ensure that the Cloud Services are operational and accessible to the Client with a Service Availability of at least 99.9% during any given calendar month, excluding scheduled maintenance windows."
+                },
+                {
+                    "subclause number": "8.4",
+                    "subclause title": "Overriding Annual Performance Guarantee",
+                    "subclause text": "Notwithstanding any monthly measurement cycles or baseline availability terms specified elsewhere in this Agreement or its accompanying schedules, the Service Provider provides an absolute runtime performance guarantee of 99.99% availability over each contract year interval."
+                }
+            ]
+        },
+        {
+            "document_id": "DOC_CLOUD_DPA_2026",
+            "clause": "12. DATA RETENTION AND LIQUIDATION\n12.2 Post-Termination Data Purge\nWithin fourteen (14) days following the effective date of expiration or termination of this Agreement, the Data Processor shall permanently and securely delete, wipe, or overwrite all Customer Personal Data stored within its production databases, cloud backups, and staging environments.",
+            "clause number": "12.",
+            "clause title": "12. DATA RETENTION AND LIQUIDATION",
+            "subclauses": [
+                {
+                    "subclause number": "12.2",
+                    "subclause title": "Post-Termination Data Purge",
+                    "subclause text": "Within fourteen (14) days following the effective date of expiration or termination of this Agreement, the Data Processor shall permanently and securely delete, wipe, or overwrite all Customer Personal Data stored within its production databases, cloud backups, and staging environments."
+                }
+            ]
+        },
+        {
+            "document_id": "DOC_CLOUD_SLA_2026",
+            "clause": "9. COMPLIANCE AUDITING AND LOG RETENTION\n9.1 Statutory Access and Preservation Windows\nTo ensure complete adherence to global regulatory audit procedures, the Service Provider shall securely preserve and retain all transactional logging data, system access histories, and user interactions within its encrypted cold archives for a mandatory period of ninety (90) days following contract termination.",
+            "clause number": "9.",
+            "clause title": "9. COMPLIANCE AUDITING AND LOG RETENTION",
+            "subclauses": [
+                {
+                    "subclause number": "9.1",
+                    "subclause title": "Statutory Access and Preservation Windows",
+                    "subclause text": "To ensure complete adherence to global regulatory audit procedures, the Service Provider shall securely preserve and retain all transactional logging data, system access histories, and user interactions within its encrypted cold archives for a mandatory period of ninety (90) days following contract termination."
+                }
+            ]
+        }
+    ]
+}
