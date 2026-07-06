@@ -1,0 +1,56 @@
+{
+    "clauses": [
+        {
+            "document_id": "DOC_EMP_AGREEMENT_2026",
+            "clause": "5. INTELLECTUAL PROPERTY RIGHTS\n5.1 Inventions and Discoveries\nThe Employee acknowledges and agrees that any and all technical innovations, designs, trade secrets, software code, and discoveries made, conceived, or reduced to practice by the Employee during official hours of employment are the sole and exclusive property of the Company.",
+            "clause number": "5.",
+            "clause title": "5. INTELLECTUAL PROPERTY RIGHTS",
+            "subclauses": [
+                {
+                    "subclause number": "5.1",
+                    "subclause title": "Inventions and Discoveries",
+                    "subclause text": "The Employee acknowledges and agrees that any and all technical innovations, designs, trade secrets, software code, and discoveries made, conceived, or reduced to practice by the Employee during official hours of employment are the sole and exclusive property of the Company."
+                }
+            ]
+        },
+        {
+            "document_id": "DOC_IP_POLICY_2026",
+            "clause": "2. OWNERSHIP FRAMEWORKS\n2.3 Employee-Developed Software Adjustments\nAny application software tool, proprietary script, or creative work developed by an employee utilizing any company hardware, network infrastructure, or material resources—regardless of whether such activities occur during or outside of official working hours—remains the exclusive personal property of the individual employee unless assigned explicitly via a standalone written assignment instrument.",
+            "clause number": "2.",
+            "clause title": "2. OWNERSHIP FRAMEWORKS",
+            "subclauses": [
+                {
+                    "subclause number": "2.3",
+                    "subclause title": "Employee-Developed Software Adjustments",
+                    "subclause text": "Any application software tool, proprietary script, or creative work developed by an employee utilizing any company hardware, network infrastructure, or material resources—regardless of whether such activities occur during or outside of official working hours—remains the exclusive personal property of the individual employee unless assigned explicitly via a standalone written assignment instrument."
+                }
+            ]
+        },
+        {
+            "document_id": "DOC_EMP_AGREEMENT_2026",
+            "clause": "7. COVENANTS AGAINST COMPETITION\n7.2 Territorial Boundaries\nThe Employee shall not, for a period of twelve months post-separation, directly or indirectly engage with or provide professional services to any competing corporate entity operating within a strict fifty-mile radius of the Company’s primary headquarters.",
+            "clause number": "7.",
+            "clause title": "7. COVENANTS AGAINST COMPETITION",
+            "subclauses": [
+                {
+                    "subclause number": "7.2",
+                    "subclause title": "Territorial Boundaries",
+                    "subclause text": "The Employee shall not, for a period of twelve months post-separation, directly or indirectly engage with or provide professional services to any competing corporate entity operating within a strict fifty-mile radius of the Company’s primary headquarters."
+                }
+            ]
+        },
+        {
+            "document_id": "DOC_IP_POLICY_2026",
+            "clause": "6. GLOBAL COMPETITIVE RESTRICTIONS\n6.1 Universal Non-Compete Application\nTo preserve market stability and proprietary trade secrets, the restrictive non-compete parameters binding all affiliated staff members apply globally, spanning all international geographic markets and municipal territories where the Company currently distributes or markets its technical solutions.",
+            "clause number": "6.",
+            "clause title": "6. GLOBAL COMPETITIVE RESTRICTIONS",
+            "subclauses": [
+                {
+                    "subclause number": "6.1",
+                    "subclause title": "Universal Non-Compete Application",
+                    "subclause text": "To preserve market stability and proprietary trade secrets, the restrictive non-compete parameters binding all affiliated staff members apply globally, spanning all international geographic markets and municipal territories where the Company currently distributes or markets its technical solutions."
+                }
+            ]
+        }
+    ]
+}
